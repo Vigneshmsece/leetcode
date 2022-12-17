@@ -1,0 +1,10 @@
+urn true;
+ }else if(n%2==0){
+     returbool isPowerOfTwo(int n){
+    if(n>0){
+ if(n==1){
+     retn isPowerOfTwo(n/2);
+ }
+}
+ return 0;
+}
